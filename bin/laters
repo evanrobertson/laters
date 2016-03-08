@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'laters'
+
+chatter = Laters::Simulators.new  
+chatter.list_devices  
